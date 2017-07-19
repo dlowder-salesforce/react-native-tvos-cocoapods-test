@@ -13,7 +13,8 @@ target 'TestCocoaPods' do
       'RCTNetwork',
       'RCTSettings',
       'RCTText',
-      'BatchedBridge'
+      'BatchedBridge',
+      'DevSupport'
   ]
 end
 
