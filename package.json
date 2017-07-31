@@ -14,7 +14,7 @@
     "flow-bin": "0.42.0",
     "lodash": "^4.17.4",
     "react": "16.0.0-alpha.12",
-    "react-native": "https://github.com/dlowder-salesforce/react-native#tvos-cocoapods"
+    "react-native": "https://github.com/dlowder-salesforce/react-native#tvos-events"
   },
   "devDependencies": {
     "babel-jest": "19.0.0",
